@@ -1,0 +1,4 @@
+clientId: "JGWpQ3A4U1-cuyp8bmThX"
+configUri: "https://live.iamid.io/.well-known/openid-configuration"
+jwk: "src/main/resources/secrets/private.jwk"
+redirectUri: "http://localhost:8080/solvency/ratio/callback"
